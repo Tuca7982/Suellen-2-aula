@@ -1,0 +1,11 @@
+body{
+background-color: pink
+}
+ol{
+    font-style: italic;
+    color: white
+    font-size: 50px;
+    position: relative;
+    left; 50vw;
+}
+
